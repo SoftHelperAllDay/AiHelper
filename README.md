@@ -1,2 +1,2 @@
 # TradingView Premium For Desctop
-![Image alt] (https://imgur.com/a/1b7Y02k)
+![Image alt](https://github.com/SoftHelperAllDay/dasdasdasd/blob/main/preview.png)
