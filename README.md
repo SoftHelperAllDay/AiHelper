@@ -1,2 +1,2 @@
 # TradingView Premium For Desctop
-![](https://imgur.com/a/lXEPMkM)https://imgur.com/a/lXEPMkM)
+![alt text](example.com/logo.png)(https://imgur.com/a/lXEPMkM)
